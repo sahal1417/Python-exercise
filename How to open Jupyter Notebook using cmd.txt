@@ -1,0 +1,12 @@
+run the following command on cmd within the same path,
+
+jupyter notebook
+
+to stop running press ctrl+c
+
+
+Note: before that, you need to install pip to install the jupyter
+ and other packages,
+
+installing jupyter notebook by: pip install notebook
+installing pandas and numpy by: pip install pandas

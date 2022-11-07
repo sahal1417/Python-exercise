@@ -1,0 +1,9 @@
+## please run these commands after you install the git exe file,
+
+commands inside the directory:
+
+git init
+git add .
+git commit -m 'any commnet'
+git remote add origin [repo link]
+git push -u origin master
